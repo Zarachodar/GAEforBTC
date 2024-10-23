@@ -29,4 +29,4 @@ If you use this code for your publication, please cite the original paper:
 ## Contact Info
 For help or issues, please submit a GitHub issue.
 
-For personal communication, please contact [Zhenyu Kwok](`zhenyuguo@bit.edu.cn`).
+For personal communication, please contact [Zhenyu Kwok] (`zhenyuguo@bit.edu.cn`).
