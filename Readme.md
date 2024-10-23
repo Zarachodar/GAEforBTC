@@ -13,27 +13,12 @@ including training data and trained model files (model\*.pt).
 For a detailed description and experimental results, please take a look at our TIFS paper [Graph-Based Covert Transaction Detection and Protection in Blockchain](https://ieeexplore.ieee.org/document/10375526).
 
 ## DataSet
-- For Covert dataset, in  
-    Dataset
-
+- For the Normal dataset, in  
+    Detection/data/btc_normal_short.json
+- For the Covert dataset, in
+    Detection/data/abnormal.json
 - For details about the dataset, in 
     [covert-transaction-model](https://github.com/1997mint/covert-transaction-model)
-
-    
-## Usage
-The folders contain the processed datasets and intermediate files generated at each step, which you can directly execute to get the output.
-
-- For ***Detection*** full experiemnt
-
-    TBD
-    
-- For ***Protection***
-
-    TBD
-
-- For motion experiment
-
-    TBD
     
 ## Require
 - Python 3.11.3
