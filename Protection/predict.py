@@ -112,8 +112,8 @@ if __name__ == '__main__':
         var_degree.append(x)
 
     print(var_degree)
-    # print(x)
-    # with open("relink.csv", 'w') as f:
-    #     for i in range(len(x)):
-    #         line = x[i].__str__() + ',' + y[i].__str__() + '\n'
-    #         f.write(line)
+    print(x)
+    with open("relink.csv", 'w') as f:
+        for i in range(len(x)):
+            line = x[i].__str__() + ',' + y[i].__str__() + '\n'
+            f.write(line)
