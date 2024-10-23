@@ -620,16 +620,16 @@ def fordegree(f):
     return nodes, degree
 
 if __name__ == '__main__':
-    # count()
-    # addresslist()
+    count()
+    addresslist()
     linklist()
-    # ab_addresslist()
-    # ab_linklist()
-    # new_addresslist()
-    # new_linklist()
-    # featurelist()
-    # adj_matrix()
-    # filter()
+    ab_addresslist()
+    ab_linklist()
+    new_addresslist()
+    new_linklist()
+    featurelist()
+    adj_matrix()
+    filter()
     # for i in range(1, 2):
     #     subgraph_link(i)
     # longestpath(1)
